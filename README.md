@@ -16,7 +16,7 @@ see all projects in our [mogutt](https://github.com/mogutt) github account page 
 
 
 ## Building
-
+##
 The build requires the [Android SDK](http://developer.android.com/sdk/index.html)
 to be installed.
 
